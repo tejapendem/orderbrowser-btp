@@ -1,3 +1,5 @@
+Before running the project make sure that folder must change to "orderbrowser"
+
 ## Application Details
 |               |
 | ------------- |
